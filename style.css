@@ -473,3 +473,7 @@ background: #000;
   bottom: 10px;
   right: 30px
 }
+
+.description li{
+    list-style-type: circle;
+}
